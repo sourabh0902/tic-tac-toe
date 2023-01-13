@@ -41,7 +41,6 @@ function App() {
       if (winner === "X") {
         setXScore(xScore + 1);
         setGameOver(true);
-        console.log("inside winner", xScore);
       } else {
         setOScore(oScore + 1);
         setGameOver(true);
@@ -52,12 +51,15 @@ function App() {
     updatedBoard.map((item) => {
       if (item === null) {
         filled = false;
+        return filled;
       }
+      return null;
     });
 
     if (filled && winner !== "X" && winner !== "O") {
       filled = true;
       setTie(tie + 1);
+      return filled;
     }
   };
 
