@@ -100,8 +100,8 @@ function App() {
         onClick={gameOver === true ? resetGame : handleBoxClick}
       />
       <div className="buttonR">
+        <button onClick={resetGame}>Play Again</button>
         <button onClick={resetAll}>Reset</button>
-        <button onClick={resetGame}>Restart</button>
       </div>
 
       <button className="gameOver" onClick={() => setShowModal(!showModal)}>
