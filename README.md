@@ -5,7 +5,8 @@
 ### 4. Developed using `React.js`, each element is a component.
 ### 5. *Technologies* : Html, CSS, JavaScipt, React.js
 
-
+# Scope of Improvement
+### Can make it multiplayer with the help of sharing link of the game.
 
 # Getting Started with Create React App
 
