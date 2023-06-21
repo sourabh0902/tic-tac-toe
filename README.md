@@ -1,6 +1,9 @@
 # About
 ### 1. Project aims to bring fun and simplicity of Tic-Toc-Toe Game.
-### 2. 
+### 2. Includes Scoreboard which updates accordingly.
+### 3. Automatically refreshes the Game Board after each play.
+### 4. Developed using `React.js`, each element is a component.
+### 5. /*Technologies/* : Html, CSS, JavaScipt, React.js
 
 # Getting Started with Create React App
 
