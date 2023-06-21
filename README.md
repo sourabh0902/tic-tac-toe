@@ -1,3 +1,7 @@
+# About
+### 1. Project aims to bring fun and simplicity of Tic-Toc-Toe Game.
+### 2. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
