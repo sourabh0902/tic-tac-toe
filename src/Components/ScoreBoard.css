@@ -22,7 +22,7 @@
   padding: 15px;
 }
 .o-tie {
-  color: rgb(0, 3, 86);
+  color: rgb(57 64 255);
   width: 100%;
   padding: 15px;
 }
@@ -35,5 +35,5 @@
 }
 
 .oTie {
-  border-bottom: 5px solid rgb(0, 3, 86);
+  border-bottom: 5px solid rgb(57 64 255);
 }
